@@ -3,4 +3,4 @@ Developing data products course project. The application predicts the class of a
 
 Link to app:http://georgymakarov.shinyapps.io/ddp_course_project/
 
-Link to pitch presentation:http://georgymakarov.shinyapps.io/ddp_course_project/
+Link to pitch presentation:http://rpubs.com/georgy_makarov/592538

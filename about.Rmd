@@ -1,0 +1,11 @@
+---
+title: "About this Application"
+output: html_document
+---
+
+This application is part of Developing Data Products Coursera course project <http://www.coursera.org/learn/data-products/>.
+
+The application predicts the class of a car based on engine displacement, number of cylinders, city mileage and highway mileage. The model was trained on *mpg* dataset from *ggplot2* package. 
+<http://ggplot2.tidyverse.org/reference/mpg.html>
+
+Submitted March 31, 2020.
